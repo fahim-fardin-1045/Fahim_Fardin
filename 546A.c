@@ -20,4 +20,3 @@ int main()
     printf("%d",borrow);
     return 0;
 }
-
